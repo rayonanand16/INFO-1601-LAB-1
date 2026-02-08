@@ -1,4 +1,12 @@
 # INFO 1601 Lab 1 - HTML 1
+<!DOCTYPE html>
+<html> 
+<head>Instagram</head> 
+<body> <p>This is my first website </p><br>
+<p>Welcome</p>
+</body> </html>
+
+
 
 ## Repl Setup
 - fork this repo
